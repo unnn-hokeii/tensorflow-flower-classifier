@@ -1,8 +1,6 @@
-# TensorFlow花卉模型训练与LiteRT移动端部署实验报告
+# 实验五 TensorFlow模型训练
 
-# 实验五 实现智能图像分类APP实验报告
-
-**实验项目**：实现智能图像分类APP
+**实验项目**：TensorFlow模型训练
 **实验环境**：MacBook Pro（Apple M2 芯片）、Android Studio Hedgehog
 **实验日期**：2026 年 6 月
 
